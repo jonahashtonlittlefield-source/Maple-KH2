@@ -22,11 +22,11 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx/-0.dds
-- name: remastered/obj/W_EX010_30.a.us/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
-- name: remastered/obj/W_EX010_30.a.us/-1.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
