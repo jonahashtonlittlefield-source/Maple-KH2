@@ -18,54 +18,54 @@ assets:
   method: copy
   source:
   - name: obj/P_EX100.mdlx
-- name: remastered/obj/W_EX010_30.mdlx/-0.dds
+- name: remastered/obj/P_EX100.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30.mdlx/-0.dds
+  - name: remastered/obj/P_EX100.mdlx/-0.dds
 - name: remastered/obj/W_EX010_30.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30.a.us/-0.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
 - name: remastered/obj/W_EX010_30.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30.a.us/-1.dds
-- name: remastered/obj/W_EX010_30_NM.mdlx/-0.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
+- name: remastered/obj/P_EX100.mdlx.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_NM.mdlx/-0.dds
-- name: remastered/obj/W_EX010_30_NM.a.us/-0.dds
+  - name: remastered/obj/P_EX100.mdlx_NM.mdlx/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_NM.a.us/-0.dds
-- name: remastered/obj/W_EX010_30_NM.a.us/-1.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_NM.a.us/-1.dds
-- name: remastered/obj/W_EX010_30_TR.mdlx/-0.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
+- name: remastered/obj/P_EX100.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_TR.mdlx/-0.dds
-- name: remastered/obj/W_EX010_30_TR.a.us/-0.dds
+  - name: remastered/obj/P_EX100.mdlx/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_TR.a.us/-0.dds
-- name: remastered/obj/W_EX010_30_TR.a.us/-1.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_TR.a.us/-1.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
 - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_WI.mdlx/-0.dds
-- name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
+  - name: remastered/obj/P_EX100.mdlx.mdlx/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_WI.a.us/-0.dds
-- name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-0.dds
+- name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010_30_WI.a.us/-1.dds
+  - name: remastered/obj/P_EX100.mdlx.a.us/-1.dds
 - name: remastered/itempic/item-046.imd/-0.dds
   method: copy
   source:
