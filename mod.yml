@@ -2,10 +2,10 @@ title: Starlight KH2
 originalAuthor: dallin1016
 description: Replaces Star Seeker with Starlight from Kingdom Hearts Union X.
 assets:
-- name: obj/P_EX100.mdlx.mdlx
+- name: obj/P_EX100.mdlx
   method: copy
   source:
-  - name: obj/P_EX100.mdlx.mdlx
+  - name: obj/P_EX100.mdlx
 - name: obj/W_EX010_30_NM.mdlx
   method: copy
   source:
