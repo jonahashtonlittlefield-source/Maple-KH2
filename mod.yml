@@ -74,6 +74,43 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
+- name: obj/P_EX100_MAGF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_MAGF.mdlx
+- name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/P_EX100_MAGF.mdlx/-1.dds
+- name: obj/P_EX100_TRIF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TRIF.mdlx
+- name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/P_EX100_TRIF.mdlx/-1.dds
+  - name: remastered/itempic/item-046.imd/-0.dds
+- name: obj/P_EX100_ULTF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_ULTF.mdlx
+- name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/P_EX100_ULTF.mdlx/-1.dds
   - name: remastered/itempic/item-046.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
