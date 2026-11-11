@@ -29,7 +29,7 @@ assets:
 - name: obj/P_EX100_BTLF.mdlx
   method: copy
   source:
-  - name: P_EX100_BTLF.mdlx
+  - name: obj/P_EX100_BTLF.mdlx
 - name: remastered/obj/P_EX100_BTLF.mdlx/-0.dds
   method: copy
   source:
@@ -38,6 +38,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_BTLF.mdlx/-1.dds
+- name: obj/P_EX100_HTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_HTLF.mdlx
+- name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_HTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.mdlx/-1.dds
   - name: remastered/itempic/item-046.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
