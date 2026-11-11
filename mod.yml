@@ -14,6 +14,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100.mdlx/-1.dds
+- name: obj/P_EX100_AL_CARPET.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_AL_CARPET.mdlx
+- name: remastered/obj/P_EX100_AL_CARPET.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL_CARPET.mdlx/-0.dds
+- name: remastered/obj/PP_EX100_AL_CARPET.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL_CARPET.mdlx/-1.dds
   - name: remastered/itempic/item-046.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
