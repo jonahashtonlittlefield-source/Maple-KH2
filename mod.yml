@@ -119,6 +119,162 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.mdlx/-0.dds
+- name: obj/P_EX100_NM.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM.mdlx
+- name: remastered/obj/P_EX100_NM.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM.mdlx/-1.dds
+- name: obj/P_EX100_NM_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_BTLF.mdlx
+- name: remastered/obj/P_EX100_NM_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_BTLF.mdlx.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_BTLF.mdlx/-1.dds
+- name: obj/P_EX100_NM_HTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_HTLF.mdlx
+- name: remastered/obj/P_EX100_NM_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_HTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_HTLF.mdlx/-1.dds
+- name: obj/P_EX100_NM_MAGF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_MAGF.mdlx
+- name: remastered/obj/P_EX100_NM_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_MAGF.mdlx/-1.dds
+- name: obj/P_EX100_NM_KHF1.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_KHF1.mdlx
+- name: remastered/obj/P_EX100_NM_KHF1.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_KH1F.mdlx/-1.dds
+- name: obj/P_EX100_NM_TRIF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_TRIF.mdlx
+- name: remastered/obj/P_EX100_NM_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_TRIF.mdlx/-1.dds
+- name: obj/P_EX100_NM_ULTF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_NM_ULTF.mdlx
+- name: remastered/obj/P_EX100_NM_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_NM_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_NM_ULTF.mdlx/-1.dds
+- name: obj/P_EX100_TR.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR.mdlx
+- name: remastered/obj/P_EX100_TR.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR.mdlx/-1.dds
+- name: obj/P_EX100_TR_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_BTLF.mdlx
+- name: remastered/obj/P_EX100_TR_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_BTLF.mdlx/-1.dds
+- name: obj/P_EX100_TR_HTLF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_HTLF.mdlx
+- name: remastered/obj/P_EX100_TR_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR_HTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_HTLF.mdlx/-1.dds
+- name: obj/P_EX100_TR_MAGF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_MAGF.mdlx
+- name: remastered/obj/P_EX100_TR_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_MAGF.mdlx/-1.dds
+- name: obj/P_EX100_TR_TRIF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_TRIF.mdlx
+- name: remastered/obj/P_EX100_TR_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_TRIF.mdlx/-1.dds
+- name: obj/P_EX100_TR_ULTF.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX100_TR_ULTF.mdlx
+- name: remastered/obj/P_EX100_TR_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_TR_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_ULTF.mdlx/-1.dds
   - name: remastered/itempic/item-046.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
