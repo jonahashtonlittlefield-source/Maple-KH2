@@ -65,15 +65,15 @@ assets:
 - name: obj/P_EX100_KH1F.mdlx
   method: copy
   source:
-  - name: obj/P_EX100.mdlx
+  - name: obj/P_EX100_KH1F.mdlx
 - name: remastered/obj/P_EX100_KH1F.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/P_EX100.mdlx/-0.dds
-- name: remastered/obj/P_EX100_KH1F.mdlx/-1.dds
+  - name: remastered/obj/P_EX100_KH1F/-0.dds
+- name: remastered/obj/P_EX100_KH1F/-1.dds
   method: copy
   source:
-  - name: remastered/obj/P_EX100.mdlx/-1.dds
+  - name: remastered/obj/P_EX100_KH1F/-1.dds
 - name: obj/P_EX100_MAGF.mdlx
   method: copy
   source:
